@@ -8,4 +8,5 @@ nに数値を入れると正n角形が描画される。 ※nに入る数値は�
 
 
 
-![3.05角形](https://github.com/TaiShow0121/turtle-Square/assets/148000013/53a1dc79-91a0-4ab4-9539-7b2e6266443e)
+![3.05角形](https://github.com/TaiShow0121/turtle-Square/assets/148000013/53a1dc79-91a0-4ab4-9539-7b2e6266443e)  
+      例3.05角形
